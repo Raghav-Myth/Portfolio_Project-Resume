@@ -18,5 +18,5 @@ I am an Electrical Engineering graduate from McGill University passionate about 
 *   **Key Engineering Highlights:** Handled custom hardware schematics and board layout incorporating an F-type PCB antenna for Wi-Fi. 
 *   **Tools & Technologies Used:** `KiCad (PCB design)`
 *   **Note:** The 4 layer board had complex manufacturing requirements, hence it was expensive to manufacture. Therefore, the design was not put to production.
-*  📂: **[View Project](LINK_TO_REPO)**
+*  📂: **[View Project](ESP32-Based MCU Project)**
 
