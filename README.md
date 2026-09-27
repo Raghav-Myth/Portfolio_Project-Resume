@@ -14,8 +14,8 @@ I am an Electrical Engineering graduate from McGill University passionate about 
 *  📂: **[View Project](E-MultiTool)** 
 
 ### 2. Custom ESP32 Wi-Fi Enabled Board 
-**A custom, Wi-Fi-enabled IoT development board built around the ESP32 microcontroller IC, designed from schematic capture to PCB routing.**
-*   **Key Engineering Highlights:** Handled custom hardware schematics and board layout incorporating an F-type PCB antenna for Wi-Fi. The 4 layer board had complex manufacturing requirements and the cost increased and hence wasn't put to production
+**A custom, Wi-Fi-enabled IoT development board built around the ESP32 microcontroller IC, designed from schematic to PCB routing.**
+*   **Key Engineering Highlights:** Handled custom hardware schematics and board layout incorporating an F-type PCB antenna for Wi-Fi. 
 *   **Tools & Technologies Used:** `KiCad (PCB design)`
 *   **Note:** The 4 layer board had complex manufacturing requirements, hence it was expensive to manufacture. Therefore, the design was not put to production.
 *  📂: **[View Project](LINK_TO_REPO)**
