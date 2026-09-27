@@ -2,10 +2,9 @@
 
 I am an Electrical Engineer graduate passionate about bare-metal development, firmware engineering, and custom hardware design. I like taking ideas from concept to functional prototypes.
 
-📄:**[Download My Resume](Mythreya_Raghav_CV.pdf)** | 📧: **[Email Me](mailto:mythreyaraghav@gmail.com)**
+📄: **[Download My Resume](Mythreya_Raghav_CV.pdf)** | 📧: **[Email Me](mailto:mythreyaraghav@gmail.com)**
 
 ---
-
 ## Featured Projects in this Repository ⚒️
 
 ### 1. E-MultiTool 
