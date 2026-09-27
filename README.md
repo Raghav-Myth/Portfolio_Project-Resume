@@ -24,7 +24,7 @@ Recruiters spend an average of 10-15 seconds scanning code portfolios. Here are 
 *   **Key Engineering Highlights:** Developed entire firmware architecture from scratch without heavy external libraries, writing direct register manipulations and hardware abstraction layer (HAL) integrations.
 *   **Technical Impact:** Implemented efficient power management and real-time peripheral handling (SPI/I2C/UART) to optimize resource constraints.
 *   **Tech Stack:** `Embedded C`, `STM32 ARM Cortex`, `STM32CubeIDE`, `Bare-Metal Development`
-*   📂 **[View Repository](LINK_TO_REPO)** 
+*   📂 **[View Repository](E-MultiTool)** 
 
 ### 2. Custom ESP32 Wi-Fi Smart Board (Hardware & Firmware Design)
 **A custom, Wi-Fi-enabled IoT development board built around the ESP32 microcontroller, designed from schematic capture to PCB routing.**
