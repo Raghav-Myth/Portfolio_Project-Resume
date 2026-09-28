@@ -17,6 +17,6 @@ I am an Electrical Engineering graduate from McGill University passionate about 
 **A custom, Wi-Fi-enabled IoT development board built around the ESP32 microcontroller IC, designed from schematic to PCB routing.**
 *   **Key Engineering Highlights:** Handled custom hardware schematics and board layout incorporating an F-type PCB antenna for Wi-Fi. 
 *   **Tools & Technologies Used:** `KiCad (PCB design)`
-  **'*'Note:** The 4 layer board had complex manufacturing requirements, hence it was expensive to manufacture. Therefore, the design was not put to production.
+*   ***Note:** The 4 layer board had complex manufacturing requirements, hence it was expensive to manufacture. Therefore, the design was not put to production.
 *  📂: **[View Project](<ESP32-Based MCU Project/ESP32 Based Microcontroller.pdf>)**
 
