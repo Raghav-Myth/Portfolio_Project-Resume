@@ -2,7 +2,7 @@
 
 I am an Electrical Engineering graduate from McGill University passionate about custom hardware design, mixed-signal PCB layout and low level firmware architecture. I like taking ideas from concept to functional prototypes.
 
-📄: **[Download My Resume](Mythreya_Raghav_CV.pdf)** | 📧: **[Email Me](mailto:mythreyaraghav@gmail.com)**
+📄: **[Download My Resume](<R.C. Mythreya Raghav CV.pdf>)** | 📧: **[Email Me](mailto:mythreyaraghav@gmail.com)**
 
 ---
 ## Featured Projects in this Repository ⚒️
