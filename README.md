@@ -1,6 +1,6 @@
-# Hi, I'm R.C Mythreya Raghav 👋
+# Hi, I'm R.C. Mythreya Raghav 👋
 
-I am an Electrical Engineering graduate from McGill University passionate about bare-metal development, firmware engineering, and custom hardware design. I like taking ideas from concept to functional prototypes.
+I am an Electrical Engineering graduate from McGill University passionate about custom hardware design, mixed-signal PCB layout and low level firmware architecture. I like taking ideas from concept to functional prototypes.
 
 📄: **[Download My Resume](Mythreya_Raghav_CV.pdf)** | 📧: **[Email Me](mailto:mythreyaraghav@gmail.com)**
 
