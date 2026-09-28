@@ -11,7 +11,7 @@ I am an Electrical Engineering graduate from McGill University passionate about 
 **A multi-functional tool built completely from scratch using the STM32 microcontroller IC and C programming.**
 *   **Key Engineering Highlights:**  Designed the schematic and board routing using KiCad. Developed the core firmware architecture from the ground up, utilizing external libraries alongside direct register manipulations and hardware abstraction layer (HAL) integrations.
 *   **Tools & Technologies Used:** `Embedded C`, `STM32CubeIDE`, `KiCad (PCB design)`,`Oscilloscope (Hardware debugging)`
-*  📂: **[View Project](E-MultiTool)** 
+*  📂: **[View Project](<E-MultiTool/E-Multitool Documentation.pdf>)** 
 
 ### 2. Custom ESP32 Wi-Fi Enabled Board 
 **A custom, Wi-Fi-enabled IoT development board built around the ESP32 microcontroller IC, designed from schematic to PCB routing.**
